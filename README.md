@@ -1,6 +1,6 @@
 # vue_p
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
